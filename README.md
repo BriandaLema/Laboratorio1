@@ -61,9 +61,10 @@ Para este laboratorio se utilizó un circuito mixto en donde encontramos que las
 ## 6. MAPA DE VARIABLES 
 
 Varibles electrónicas: 
-*Corriente
-*Voltaje
-*Resistencias
+
+* Corriente
+* Voltaje
+* Resistencias
 
 
 
