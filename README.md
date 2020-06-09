@@ -11,7 +11,7 @@ TEMA: LEYES DE KIRCHHOFF
 
 * Observar como se efectua un circuito mixto en condiciones simuladas y teoricas.
 * Identificar las diferencias de calculo entre un circuito simulado y teorico.
-* Differenciar cuales son las mallas, los nodos y las ramas del sistema.
+* Diferenciar cuales son las mallas, los nodos y las ramas del sistema.
 
 ## 2. PLANTEAMIENTO DEL PROBLEMA
 
